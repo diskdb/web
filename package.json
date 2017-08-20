@@ -1,14 +1,14 @@
 {
-  "name": "nostalgia-web",
+  "name": "diskdb-web",
   "version": "0.0.1",
-  "description": "Web interface for Nostalgia",
-  "main": "index.js",
+  "description": "The diskdb frontend",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "dev": "webpack-dev-server"
   },
-  "author": "fallenoak",
+  "author": "diskdb",
   "license": "MIT",
   "dependencies": {
     "react": "^15.6.1",

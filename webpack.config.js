@@ -5,7 +5,7 @@ module.exports = {
 
   output: {
     path: path.resolve(__dirname, 'public/dist'),
-    filename: 'nostalgia-web.bundle.js'
+    filename: 'diskdb-web.bundle.js'
   },
 
   module: {
